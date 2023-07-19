@@ -1,0 +1,24 @@
+div{
+   background-color:black
+}
+h1{
+  color:blanchedalmond;/*color de la letra*/ 
+  font: size 150px;/*tamaño de letra*/
+  text-align: center;
+  font-family: fantasy;
+}
+p{color:blanchedalmond;
+    font-family: cursive;
+    font-size: 40px;
+
+}
+img{
+   width: 300px;/*tamaño ede ancho*/
+   height: 300px;/*tamalo alto*/
+   border-radius:  50%;
+}
+
+.otroDiv{
+    background-color: darkslateblue ;
+}
+
